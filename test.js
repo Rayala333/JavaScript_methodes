@@ -1,4 +1,4 @@
-
+//java_script
 //javascript method functions
 //--------------------------
 //length of a arr
